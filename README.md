@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://shahabahreini.com/wp-content/uploads/2021/10/new2.png" alt="Shahab Bahreini Jangjoo - AI Engineer | Data Scientist | R&D Scientific Consultant" width="500"/>
+  <img src="https://shahabahreini.com/wp-content/uploads/2021/10/new2.png" alt="Shahab Bahreini Jangjoo - AI Engineer | Data Scientist | R&D Scientific Consultant" width="200"/>
 </p>
 
 <h1 align="center">Shahab Bahreini Jangjoo</h1>
