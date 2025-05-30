@@ -1,5 +1,6 @@
 # Shahab Bahreini Jangjoo
 ### AI Engineer | Data Scientist | R&D Scientific Consultant
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahab--bahreini-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shahab-bahreini) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-5r9--8vcAAAAJ-blue?style=flat-square&logo=google-scholar)](https://scholar.google.ca/citations?user=5r9-8vcAAAAJ&hl=en&oi=ao)
 
 ## Summary
 
@@ -57,55 +58,54 @@ Experienced Researcher and Software Developer with dual M.Sc. degrees in Physics
 ## Tech Skills
 
 #### Programming Languages
-- Python
 - C++
 - Julia
+- Python
 
 #### Python Libraries & Packages
+- Beautiful Soup
+- Matplotlib
 - Multiprocessing
 - Numpy
 - Pandas
-- Scikit-learn
-- TensorFlow
+- Plotly
 - PyQT
 - PyTorch
-- Matplotlib
-- Plotly
+- Scikit-learn
 - Selenium
-- Beautiful Soup
+- TensorFlow
 
 #### Machine Learning & Modeling Techniques
-- Linear Regression
-- Random Forest
-- LightGBM
-- Gradient Boost
-- SVR
-- KNN
 - CNN
-- RNN
 - FNN
-- SVR
-- Skforecast
+- Gradient Boost
+- KNN
+- LightGBM
+- Linear Regression
 - LSTM
 - PCA
+- Random Forest
+- RNN
+- Skforecast
+- SVR
 
 #### Database & Data Handling Skills
+- Excel
 - MySQL
 - SQL
 - SQLite
-- Excel
 - Statistical Analysis
 
 #### Cloud & Container Technologies
 - Docker
-- Kubernetes
 - Google Cloud
+- Kubernetes
 
 #### APIs & Web Technologies
-- RESTful API
+- JSON
 - OpenCV
 - Postman
-- JSON
+- RESTful API
 - YAML
 
 #### Version Control Systems
@@ -113,23 +113,23 @@ Experienced Researcher and Software Developer with dual M.Sc. degrees in Physics
 - SVN
 
 #### Development & Collaboration Tools
-- Google Colab
-- Jupyter
-- GitHub
 - BitBucket
-- Miro
 - ClickUp
 - Figma
+- GitHub
+- Google Colab
+- Jupyter
+- Miro
 
 #### Blockchain Technologies
 - Blockchain Structure
-- Solidity
 - Hardhat
+- Solidity
 
 #### Operating Systems
-- Windows
 - Linux
 - Mac
+- Windows
 
 ## Certifications
 
