@@ -1,24 +1,11 @@
-<p align="center">
-  <img src="https://shahabahreini.com/wp-content/uploads/2021/10/new2.png" alt="Shahab Bahreini Jangjoo - AI Engineer | Data Scientist | R&D Scientific Consultant" width="200"/>
-</p>
+# Shahab Bahreini Jangjoo
+### AI Engineer | Data Scientist | R&D Scientific Consultant
 
-<h1 align="center">Shahab Bahreini Jangjoo</h1>
-<h3 align="center">AI Engineer | Data Scientist | R&D Scientific Consultant</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahab-bahreini"><img src="https://img.shields.io/badge/LinkedIn-shahab--bahreini-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://scholar.google.ca/citations?user=5r9-8vcAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-5r9--8vcAAAAJ-blue?style=flat-square&logo=google-scholar"></a>
-</p>
-
----
-
-### 📌 Summary
+## Summary
 
 Experienced Researcher and Software Developer with dual M.Sc. degrees in Physics and one in Computer Science, complemented by a robust mathematical and statistical analysis skill set. Expertise in Data Science, Deep Learning, Neural Networks, and Machine Learning, with proficiency in Decision Tree, Clustering, and Regression analysis. Skilled in Image Processing, Parallel Computing, and AI Modeling. Demonstrated success in Industrial R&D, particularly in Power Electronics and Smart Thermostat Software development.
 
----
-
-### 💼 Experience
+## Experience
 
 #### AI Engineer | Data Scientist (Mitacs Internship)
 **ENA Solutions**, Calgary, Canada *(11/2023 - 02/2024)*
@@ -38,9 +25,7 @@ Experienced Researcher and Software Developer with dual M.Sc. degrees in Physics
 - Created macro-based Excel tools for efficient data analysis and product troubleshooting.
 - Acted as a scientific consultant for diagnosing and solving issues in High/Medium/Low Voltage products.
 
----
-
-### 🎓 Education
+## Education
 
 #### Visiting Student at Digital Integration Centre of Excellence (DICE)
 **Saskatchewan Polytechnic**, Saskatoon, SK, Canada *(03/2024 - 2025)*
@@ -69,9 +54,7 @@ Experienced Researcher and Software Developer with dual M.Sc. degrees in Physics
 #### B.Sc. Physics (Solid-State)
 **Shiraz University**, Shiraz, Iran *(2009 - 2013)*
 
----
-
-### 🛠️ Tech Skills
+## Tech Skills
 
 #### Programming Languages
 - Python
@@ -148,9 +131,7 @@ Experienced Researcher and Software Developer with dual M.Sc. degrees in Physics
 - Linux
 - Mac
 
----
-
-### 📜 Certifications
+## Certifications
 
 - [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://coursera.org/share/5c4934b9dde9f6f469e92c07bd9c69f5) - IBM via Coursera, 2023
 - [Foundations of Cybersecurity](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1) - Google via Coursera, 2023
